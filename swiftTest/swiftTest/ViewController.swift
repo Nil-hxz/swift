@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         let view = UIView()
         print("123")
         print("345")
+        print("234")
     }
 
 
